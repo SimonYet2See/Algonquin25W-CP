@@ -1,0 +1,141 @@
+Course Name: Introduction to Computer Programming
+Course Code: CST8116 
+Section: 341
+Delivery: Lab
+Professor: Rama Thavasinadar
+Room Number/ Location: WB430, Woodroffe                     
+Day of Class: Monday
+Time: 16:00 until 18:00
+Start Date: 06-Jan-2025
+End Date: 07-Apr-2025
+Academic Penalty Withdrawal Date: 14-Mar-2025
+
+
+Course Name: Computer Essentials
+Course Code: CST8118 
+Section: 341
+Delivery: Lab
+Professor: Matthew O'Meara
+Room Number/ Location: WT117, Woodroffe                     
+Day of Class: Monday
+Time: 19:00 until 21:00
+Start Date: 06-Jan-2025
+End Date: 07-Apr-2025
+Academic Penalty Withdrawal Date: 14-Mar-2025
+
+
+Course Name: Introduction to Database
+Course Code: CST8215 
+Section: 340
+Delivery: Theory
+Professor: Sarfraz Fayaz Khan
+Room Number/ Location: WB455, Woodroffe                     
+Day of Class: Tuesday
+Time: 17:00 until 19:00
+Start Date: 07-Jan-2025
+End Date: 08-Apr-2025
+Academic Penalty Withdrawal Date: 14-Mar-2025
+
+
+Course Name: Communications I
+Course Code: ENL1813T
+Section: 322
+Delivery: Theory
+Professor: John Valley
+Room Number/ Location: WP308, Woodroffe                     
+Day of Class: Tuesday
+Time: 19:00 until 21:00
+Start Date: 07-Jan-2025
+End Date: 15-Apr-2025
+Academic Penalty Withdrawal Date: 14-Mar-2025
+
+
+Course Name: Introduction to Database
+Course Code: CST8215 
+Section: 341
+Delivery: Lab
+Professor: Roly Roy
+Room Number/ Location: WT327, Woodroffe                     
+Day of Class: Wednesday
+Time: 17:00 until 19:00
+Start Date: 08-Jan-2025
+End Date: 19-Feb-2025
+Academic Penalty Withdrawal Date: 14-Mar-2025
+
+
+Course Name: Technical Mathematics for Computer Science
+Course Code: MAT8001C
+Section: 080
+Delivery: Theory
+Professor: Hayat ElFazani
+Room Number/ Location: WP214, Woodroffe                     
+Day of Class: Wednesday
+Time: 19:00 until 21:00
+Start Date: 08-Jan-2025
+End Date: 16-Apr-2025
+Academic Penalty Withdrawal Date: 14-Mar-2025
+
+
+Course Name: Introduction to Computer Programming
+Course Code: CST8116 
+Section: 340
+Delivery: Theory
+Professor: Rama Thavasinadar
+Room Number/ Location: WC346, Woodroffe                     
+Day of Class: Thursday
+Time: 12:00 until 14:00
+Start Date: 09-Jan-2025
+End Date: 10-Apr-2025
+Academic Penalty Withdrawal Date: 14-Mar-2025
+
+
+Course Name: Achieving Success in Changing Environments
+Course Code: CST8300 
+Section: 307
+Delivery: Theory
+Professor: Jennifer MacDonald
+Room Number/ Location: WB365, Woodroffe                     
+Day of Class: Thursday
+Time: 16:00 until 18:00
+Start Date: 09-Jan-2025
+End Date: 17-Apr-2025
+Academic Penalty Withdrawal Date: 14-Mar-2025
+
+
+Course Name: Technical Mathematics for Computer Science
+Course Code: MAT8001C
+Section: 080
+Delivery: Theory
+Professor: Hayat ElFazani
+Room Number/ Location: WB166, Woodroffe                     
+Day of Class: Thursday
+Time: 18:00 until 20:00
+Start Date: 09-Jan-2025
+End Date: 17-Apr-2025
+Academic Penalty Withdrawal Date: 14-Mar-2025
+
+
+Course Name: Computer Essentials
+Course Code: CST8118 
+Section: 340
+Delivery: Theory
+Professor: Matthew O'Meara
+Room Number/ Location: WT207, Woodroffe                     
+Day of Class: Friday
+Time: 14:30 until 16:30
+Start Date: 10-Jan-2025
+End Date: 11-Apr-2025
+Academic Penalty Withdrawal Date: 14-Mar-2025
+
+
+Course Name: Introduction to Database
+Course Code: CST8215 
+Section: 341
+Delivery: Lab
+Professor: Steve Bulgin
+Room Number/ Location: WT327, Woodroffe                     
+Day of Class: Wednesday
+Time: 17:00 until 19:00
+Start Date: 05-Mar-2025
+End Date: 09-Apr-2025
+Academic Penalty Withdrawal Date: 14-Mar-2025

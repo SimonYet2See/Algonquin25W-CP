@@ -40,8 +40,22 @@
         <mxCell id="nWRwTz6iJhRm_jSJGZRl-10" value="input &quot;number2&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nWRwTz6iJhRm_jSJGZRl-14" value="sum" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nWRwTz6iJhRm_jSJGZRl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nWRwTz6iJhRm_jSJGZRl-14" target="nWRwTz6iJhRm_jSJGZRl-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nWRwTz6iJhRm_jSJGZRl-14" value="sum=number1+number2&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nWRwTz6iJhRm_jSJGZRl-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nWRwTz6iJhRm_jSJGZRl-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nWRwTz6iJhRm_jSJGZRl-16" value="output &#39;&#39;sum&#39;&#39;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nWRwTz6iJhRm_jSJGZRl-20" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
